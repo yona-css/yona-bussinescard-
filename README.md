@@ -1,9 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Yona Business card project
+For this project,I follewed along with the tutorial on scrimba set up
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
